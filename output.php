@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Сергей Александрович
- * Date: 18.02.2018
- * Time: 19:54
- */
 echo '<form method="post" action="mail.php">
  
    <div class="left">
